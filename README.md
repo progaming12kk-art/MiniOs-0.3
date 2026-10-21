@@ -1,10 +1,3 @@
-Sí: el problema no es tu confirmación, sino que la herramienta de subida está fallando en este entorno con un error de “Awaiting user confirmation” y luego “Se ha producido un error. Vuelve a intentarlo”.
-
-Lo más práctico es que lo hagas manualmente desde GitHub, y yo te dejo todo listo para pegar.
-
-1) README.md
-Copia este contenido exacto en el archivo README.md del repositorio:
-
 # MiniOs-0.3
 
 Mini OS — ecosistema en Python con un procesador virtual, lenguaje ensamblador (KevASM), sistema de archivos jerárquico con persistencia en JSON e intérprete/CLI integrado. Proyecto educativo y experimental para aprender diseño de máquinas virtuales, ensambladores y sistemas de archivos simples.
