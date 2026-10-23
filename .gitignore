@@ -1,0 +1,4 @@
+__pycache__/
+Backup.json
+memoria.json
+*.pyc
